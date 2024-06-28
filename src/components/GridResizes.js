@@ -106,7 +106,7 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 
     return (
         <>
-        <div className="grid-container h-screen w-screen flex flex-col items-center w-full max-w-[75rem] h-[50em] shadow-xl p-5 relative mb-5 ml-40 left-20 bottom-20" style={{
+        <div className="grid-container h-screen w-screen flex flex-col items-center w-full max-w-[75rem] h-[45em] shadow-xl p-5 relative mb-5 ml-40 left-20 bottom-10" style={{
             marginLeft: '22rem',
             bottom: '37rem',
             display: 'grid',
